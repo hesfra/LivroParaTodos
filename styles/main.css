@@ -1,0 +1,31 @@
+body {
+    overflow-x:hidden;
+    background-color:rgb(235, 231, 231);
+    }
+header{
+    background-color: darkgrey;
+}
+#logoHeader{
+    width: 3.1rem;
+}
+.nav{
+    padding-left: 15%;
+}
+#navbarSupportedContent{
+    justify-content: flex-end;
+    padding-right: 3rem;
+}
+main{
+    background-color:rgb(235, 231, 231);
+}
+.imgcriancas{
+    width: 101%;
+}
+#textoIndex{
+    padding: 10% 0 0 5%;
+    
+}
+footer{
+    position:fixed;
+    bottom:0;
+}
